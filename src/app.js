@@ -1,4 +1,3 @@
-window.onload = function(){
 document.addEventListener('init', function(event) {
     // Page navigation
     var page = event.target;
@@ -97,5 +96,3 @@ document.addEventListener('init', function(event) {
     }
 
 });
-
-}
